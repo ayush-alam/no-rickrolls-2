@@ -1,0 +1,12 @@
+.error{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.normaltext{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+*{
+    background-color: black;
+}
