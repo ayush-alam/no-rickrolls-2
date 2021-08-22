@@ -1,1 +1,1 @@
-window.location.href='https://ayush-alam.github.io/no-rickrolls/warning.html';
+window.location.href='https://ayush-alam.github.io/no-rickrolls-2/warning.html';
